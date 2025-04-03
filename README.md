@@ -23,17 +23,7 @@ preview
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **CYPER SECURITY**
 
-- 👯 I’m looking to collaborate on **RED TEAM**
-
-- 💬 Ask me about **GHOST**
-
-- 📫 How to reach me **=---=**
-
-- 📄 Know about my experiences [4](4)
-
-- ⚡ Fun fact **SOS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,29 +39,74 @@ preview
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a4m&show_icons=true&locale=en" alt="a4m" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a4m&" alt="a4m" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a4m&" alt="a4m" /></p
+                                                                                                       
+                                                                                                       
+         <!-- Terminal-style header with typing animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=30&duration=4000&pause=1000&color=32F723&center=true&vCenter=true&width=500&lines=Welcome+To+My+Cyber+Fortress;Security+Researcher;CTF+Player;Ethical+Hacker">
+</h1>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+<!-- Matrix/cyber banner (add your own image link) -->
+<img src="https://i.imgur.com/7QShd5e.png" alt="cyber-banner">
+
+---
+
+### 🔧 Tools & Skills  
+
+**Cybersecurity**  
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-111111?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp_Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+
+**Hardware**  
+![Raspberry_Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![PCB_Design](https://img.shields.io/badge/PCB_Design-FF6F00?style=for-the-badge&logo=altium-designer&logoColor=white)
+
+**Networking**  
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![CompTIA_Network+](https://img.shields.io/badge/CompTIA_Network+-E40522?style=for-the-badge&logo=comptia&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+---
+
+**Technical Skills**  
+```diff
++ Hardware: Embedded Systems • PCB Design • Firmware Reverse Engineering • IoT Security
++ Networking: Network Configuration • TCP/IP Analysis • Firewall Management • Packet Inspection
++ Security: Penetration Testing • Vulnerability Assessment • Digital Forensics • Malware Analysis
+
+Skills:  
+`Reverse Engineering` • `Penetration Testing` • `Network Analysis` • `Malware Analysis`
+
+---
+
+### 🛡️ Projects  
+Highlight security-focused repos:  
+- [Vulnerability Scanner](https://github.com/your-username/scanner) – Python tool for detecting CVE exploits.  
+- [CTF Writeups](https://github.com/your-username/ctf) – Solutions for TryHackMe/HackTheBox challenges.  
+
+---
+
+### 📈 Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=32F723)
+
+![Snake Animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+### 🌐 Contact  
+[![HackTheBox](https://img.shields.io/badge/Hack_The_Box-111827?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)](https://app.hackthebox.com/profile/your-id)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/your-username)                                                                                              
+                                                                                                       
+                                                                                                       
+                                                                                                       
+                                                                                                       
+                                                                                                       
+                                                                                                       
+                                                                                                       
+                                                                                                       
+                                                                                                       
+                                                                                                       
+
