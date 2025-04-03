@@ -23,7 +23,18 @@ preview
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-
+<p align="center">
+  <pre>
+  █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
+  █░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░█   ╔═╗╔╗╔╔═╗╦═╗╔═╗╔╦╗
+  █░░╳╳╳╳╳╳╳╳╳╳╳╳░░█   ║╣ ║║║║ ╦╠╦╝╠═╣║║║
+  █░░▒┌──┐▒┌──┐▒▒░░█   ╚═╝╝╚╝╚═╝╩╚═╩ ╩╩ ╩
+  █░░░│██│░│██│░▒░░█   HARDWARE HACKING LAB
+  █░░░└──┘░└──┘░▒░░█
+  █░░▒▒▒▒▒▒▒▒▒▒▒▒░░█
+  █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
+  </pre>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,7 +53,7 @@ preview
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a4m&" alt="a4m" /></p
                                                                                                        
                                                                                                        
-         <!-- Terminal-style header with typing animation -->
+         
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Hack&size=30&duration=4000&pause=1000&color=32F723&center=true&vCenter=true&width=500&lines=Welcome+To+My+Cyber+Fortress;Security+Researcher;CTF+Player;Ethical+Hacker">
 </h1>
